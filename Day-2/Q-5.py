@@ -1,3 +1,5 @@
+# This Program prints the sum of Digits of number N.
+
 n = int(input("Enter the number:"))
 temp1 = 0
 temp2 = n 
