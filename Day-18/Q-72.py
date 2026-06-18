@@ -1,4 +1,4 @@
-# This is a program to bubble sorting in descending order
+# This is a program for bubble sorting in descending order
 
 
 
